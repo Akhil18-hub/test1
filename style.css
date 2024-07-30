@@ -1,0 +1,116 @@
+body{
+    background-color: blue;
+}
+.top{
+    background-color: white;
+    padding:10px;
+    display: flex;
+    justify-content:right;
+    border-radius: 50px;
+}
+button{
+    Background-color:orange;
+    color:white;
+    padding:8px;
+    width:85px;
+    border-radius:10px;
+    font-weight:bold;
+    justify-content: center;
+}
+button:hover{
+    background-color: white;
+    color:orange;
+}
+h1{
+    color:white;
+    text-align:center;
+    font-family:sans-serif;
+}
+.worldcup{
+    background-color: orange;
+    align-content: center;
+}
+.worldcup div{
+    display:flex;
+}
+.images{
+    width:625px;
+}
+.worldcup p{
+    color:white;
+    font-size: 1.5em;
+    text-align: center;
+}
+h2{
+    Background-color:blue; 
+    color:white;
+    text-align: center;
+    font-family:sans-serif;
+}
+.squad img{
+    width:1000px;
+    height: 500px;
+    margin-left: 120px;
+}
+.defenders{
+    text-align: center;
+}
+.defenders img{
+    width:200px; 
+    height:300px;
+}
+.defenders p{
+    color:white;
+    text-align: center;
+}
+marquee{
+    width:800px;
+}
+h4
+{
+    text-align: center;
+    color:white;
+    font-family:sans-serif;
+}
+.surya{
+    background-color:white;
+    margin-left:220px;
+}
+.videoplay{
+    display: flex;
+    margin:20px 0px;
+}
+.videoplay img{
+    width:325px;
+    height:400px;
+}
+video{
+    width:600px; 
+    height:400px;
+}
+.socialIcons{
+    display:flex;
+    justify-content: center;
+}
+.fa-brands{
+    padding:10px;
+    font-size:1.5em;
+    background-color:orange;
+    margin: 10px;
+    border-radius: 50px;
+}
+.fa-brands:hover{
+    background-color: white;
+}
+.footerNav{
+    display: flex;
+    justify-content: center;
+    margin:10px;
+}
+.footerNav a{
+    margin:20px;
+    color:white;
+    text-decoration: none;
+    font-size:1.5em;
+    font-size: bold;
+}
